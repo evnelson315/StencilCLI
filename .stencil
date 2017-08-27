@@ -1,0 +1,12 @@
+{
+  "normalStoreUrl": "http://evnelson315gmailcom9.mybigcommerce.com/",
+  "port": 3000,
+  "clientId": "7adlunhfi0s1qk6mf9nua0d2zlxfw0i",
+  "accessToken": "k3lvxsbvddyz4ybksl6f7rotzs7ob3o",
+  "customLayouts": {
+    "brand": {},
+    "category": {},
+    "page": {},
+    "product": {}
+  }
+}
